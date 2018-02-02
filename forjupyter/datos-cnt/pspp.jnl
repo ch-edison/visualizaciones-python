@@ -1,0 +1,6 @@
+GET FILE="/home/reroes/Escritorio/tmp55/datos-cnt/dignidades_2002.sav".
+
+aviso: `/home/reroes/Escritorio/tmp55/datos-cnt/dignidades_2002.sav' cerca de la posición 0x2c8: El archivo especifica un valor inesperado -1.79769e+308 como LOWEST.
+GET FILE="/home/reroes/Escritorio/tmp55/datos-cnt/candidatos_2002.sav".
+
+aviso: `/home/reroes/Escritorio/tmp55/datos-cnt/candidatos_2002.sav' cerca de la posición 0x8a0: El archivo especifica un valor inesperado -1.79769e+308 como LOWEST.
